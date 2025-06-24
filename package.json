@@ -1,6 +1,6 @@
 {
-    "name": "cocoa-obsidian-theme",
-    "version": "1.0.0",
+    "name": "obsidian-cocoa",
+    "version": "0.5.0",
         "scripts": {
             "version": "node version-bump.mjs && git add manifest.json versions.json"
         }
